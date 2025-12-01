@@ -1,7 +1,6 @@
 
 # 📁 AI Resume Ranking Tool
-
-
+![Resume Ranking Tool Demo](https://github.com/prernabanthiya/Resume_Ranker/blob/main/resume_ranking_tool_demo.jpg)
 **An AI-powered system that analyzes and ranks multiple resumes against a Job Description using NLP and semantic similarity.**
 
 ---
